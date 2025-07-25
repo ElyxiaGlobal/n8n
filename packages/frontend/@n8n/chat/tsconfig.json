@@ -18,7 +18,6 @@
 			"@n8n/design-system*": ["../../design-system/src*"]
 		},
 		"lib": ["esnext", "dom", "dom.iterable", "scripthost"],
-		// TODO: remove all options below this line
 		"useUnknownInCatchVariables": false
 	},
 	"include": ["**/*.ts", "**/*.vue"]
